@@ -1,0 +1,20 @@
+{% extends 'user_template.html' %}
+{% load static %}
+{% block content %}
+
+    <head>
+        <title>List of Users</title>
+    </head>
+    <body>
+        <h1><img src="{% static '/img/common/user-group.png' %}" width="10%" height="20%"/>By User</h1>
+        <div class="users">
+            {% for item in listofusers %}
+                <div class="user">
+                    <a href="{% url 'users:single_user_posts' username=item.username %}">
+                        <img src="{% static '/img/common/arrow.png' %}"width="2%" height="5%" />{{item.username}}</a>
+                </div>
+            {% endfor %}
+        </div>
+    </body>
+
+{% endblock %}

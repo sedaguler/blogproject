@@ -1,0 +1,22 @@
+{% extends 'post_template.html' %}
+
+{% block content %}
+
+    <head>
+        <title>List of Topic </title>
+    </head>
+    <body>
+        <div class="posts">
+            {% for item in topicdetail %}
+            <div class="post">
+                <h2>Topic: {{ item.topic }}</a></h2>
+                <p>Title: {{ item.title }}</p>
+                <p>Message: {{ item.message }}</p>
+                <p>Created on: {{ item.created }}</p>
+                <p>User: {{ item.user }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </body>
+
+{% endblock %}

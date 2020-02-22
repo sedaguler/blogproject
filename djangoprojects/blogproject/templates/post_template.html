@@ -1,0 +1,13 @@
+{% load static %}
+<html>
+    <head>
+        <link rel="stylesheet" href="{% static '/css/layouts/blog.css' %}">
+    </head>
+    <body>
+        <div class="tmplt">
+            <h1><a href="{% url 'posts:topic_list' %}"></a></h1>
+            {% block content %}
+            {% endblock %}
+        </div>
+    </body>
+</html>

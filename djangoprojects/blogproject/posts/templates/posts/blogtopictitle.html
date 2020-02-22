@@ -1,0 +1,19 @@
+{% extends 'post_template.html' %}
+{% load static %}
+{% block content %}
+
+    <head>
+        <title>List of Topic </title>
+    </head>
+    <body>
+        <div class="posts">
+            {% for item in singletopiclist %}
+            <div class="post">
+                <h2><a href="{% url 'posts:topic_title_detail' topic=tpc title=item.title %}">
+                    <img src="{% static '/img/common/arrow.png' %}"width="2%" height="5%" />{{ item.title }}</a></h2>
+            </div>
+            {% endfor %}
+        </div>
+    </body>
+
+{% endblock %}

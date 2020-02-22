@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="178d76fd-f19e-46f9-9fef-0a0e593036f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blogproject" />
+  </component>
+  <component name="ProjectId" id="1Y85ZFRVm2ZxBHdfule1eoEC7Mv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogproject" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/blogproject/posts/templates/posts/topics.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blogproject/templates" />
+      <recent name="$PROJECT_DIR$/blogproject/blogproject" />
+      <recent name="$PROJECT_DIR$/blogproject/users/templates/users" />
+      <recent name="$PROJECT_DIR$/blogproject/posts/templates/posts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="djangoprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="178d76fd-f19e-46f9-9fef-0a0e593036f0" name="Default Changelist" comment="" />
+      <created>1582311434241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582311434241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2290" y="169" width="1084" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582312781627">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2290" y="169" width="1084" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582312781627" />
+    <state x="2147" y="137" width="1408" height="639" key="DiffContextDialog" timestamp="1582385570280">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2147" y="137" width="1408" height="639" key="DiffContextDialog/0.28.1920.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582385570280" />
+    <state x="2615" y="284" width="424" height="486" key="FileChooserDialogImpl" timestamp="1582388426690">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2615" y="284" width="424" height="486" key="FileChooserDialogImpl/0.28.1920.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582388426690" />
+    <state x="2663" y="375" key="Github.CreateGistDialog" timestamp="1582340206095">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="375" key="Github.CreateGistDialog/0.28.1920.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582340206095" />
+    <state x="2627" y="215" width="992" height="732" key="SettingsEditor" timestamp="1582340192374">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2627" y="215" width="992" height="732" key="SettingsEditor/0.28.1920.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582340192374" />
+    <state x="2446" y="192" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1582388497573">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2446" y="192" width="800" height="530" key="Vcs.Push.Dialog.v2/0.28.1920.1052/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582388497573" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/blogproject/posts/admin.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
