@@ -9,7 +9,9 @@ urlpatterns = [
     url(r'^posts/', include('posts.urls')),
     url(r'^publish/', views.publish),
     url(r'^users/', include('users.urls')),
-    url(r'^$', views.home),
+    url(r'^accounts/', include('accounts.urls')),
+    url(r'^select/', views.select),
+    url(r'^$', views.home, name='home'),
 ]
 
 urlpatterns += staticfiles_urlpatterns()

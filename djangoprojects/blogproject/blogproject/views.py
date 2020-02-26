@@ -7,3 +7,5 @@ def home(request):
 def publish(request):
     return render(request, 'publish.html')
 
+def select(request):
+    return render(request, 'home.html')

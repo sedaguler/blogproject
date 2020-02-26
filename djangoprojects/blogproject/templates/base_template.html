@@ -1,0 +1,15 @@
+{% load static %}
+<html>
+    <head>
+        <link rel="stylesheet" href="{% static '/css/layouts/blog.css' %}">
+    </head>
+    <body>
+        <header class="wrapper">
+            <h1>Welcome</h1>
+        </header>
+        <div class="wrapper">
+            {% block content %}
+            {% endblock %}
+        </div>
+    </body>
+</html>
