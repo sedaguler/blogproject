@@ -10,7 +10,7 @@ urlpatterns = [
     url(r'^publish/', views.publish),
     url(r'^users/', include('users.urls')),
     url(r'^accounts/', include('accounts.urls')),
-    url(r'^select/', views.select),
+    url(r'^select/', views.select, name='select'),
     url(r'^$', views.home, name='home'),
 ]
 

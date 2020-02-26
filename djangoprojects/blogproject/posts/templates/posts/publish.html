@@ -1,0 +1,13 @@
+{% extends 'post_template.html' %}
+{% block content %}
+    <div class="publish-post">
+        <h2>Publish</h2>
+        <div class="publish">
+            <form method="POST" class="post-form">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <button type="submit" class="save btn btn-default">Save</button>
+            </form>
+        </div>
+    </div>
+{% endblock %}
